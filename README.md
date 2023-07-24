@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rennan</h1>
 <h3 align="center">I'm a Computer Science student at Catholic University of Pernambuco. Currently on my the third semester - 3/8.</h3>
 
-- 📫 How to reach me **rennanbarros01@gmail.com**
+- 📫 How to reach me **rennanbarros10@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
