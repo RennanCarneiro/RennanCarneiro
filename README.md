@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rennan</h1>
 <h3 align="center">I'm a Computer Science student at Catholic University of Pernambuco. Currently on my fifth semester - 5/8.</h3>
 
-- 🌱 I’m currently learning **IOS/Swift, JS and C#.**
+- I’m currently learning **IOS/Swift, JS and C#.**
 
-- 📫 How to reach me **rennanbarros10@gmail.com**
+- How to reach me **rennanbarros10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
