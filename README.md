@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rennan</h1>
+<h1 align="center">Hi, I'm Rennan</h1>
 <h3 align="center">I'm a Computer Science student at Catholic University of Pernambuco. Currently on my sixth semester - 6/8.</h3>
 
 - I’m currently learning **C++**, **Docker** and **SpringBoot**.
