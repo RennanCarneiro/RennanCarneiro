@@ -22,21 +22,15 @@
 <div style="display: inline_block; margin-bottom: 20px;">
   <p><strong><h3>⚙️ Skills:</h3></strong></p>
   
-  <!-- Backend -->
-  <p><strong>💻 Backend Development:</strong></p>
+  <!-- Backend/front -->
+  <p><strong>💻 Development:</strong></p>
   <div>
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <!--<img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">-->
-  </div>
-  <br>
-
-  <!-- Frontend -->
-  <p><strong>🌐 Frontend Development:</strong></p>
-  <div>
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </div>
   <br>
 
@@ -48,17 +42,11 @@
   </div>
   <br>
 
-  <!-- Tools & Testing -->
-  <p><strong>Tools & Testing:</strong></p>
+  <!-- tools -->
+  <p><strong>🔧 Tools:</strong></p>
   <div>
     <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
     <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-  </div>
-  <br>
-
-  <!-- Others -->
-  <p><strong>🔧 Other Skills:</strong></p>
-  <div>
     <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
