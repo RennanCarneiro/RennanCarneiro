@@ -65,6 +65,3 @@
 
 <hr>
 
-<div>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rennancarneiro&show_icons=true&locale=en&layout=compact" alt="RennanCarneiro" /></p>
-</div>
